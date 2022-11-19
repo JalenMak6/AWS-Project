@@ -1,5 +1,3 @@
-AWS-Project
-
 AWS Project - Deployed and hosted a highly-available WordPress application
 
 This project is going to deploy a highly-available WordPress application Using EC2, ALB, RDS, Route 53, ASG, VPC, CloudFront, ACM and SSM.

@@ -1,4 +1,4 @@
-# AWS Projec
+# AWS Project
 
 Using S3 for a static website while gep-distributed Cache with Cloudfront
 
